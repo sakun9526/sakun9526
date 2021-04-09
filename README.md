@@ -1,6 +1,9 @@
-### Hi there 👋
+## Hi there folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+
 
 <!--
+	👋
 **sakun9526/sakun9526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Twitter Badge](https://img.shields.io/badge/-@SakunPushpitha-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SakunPushpitha)](https://twitter.com/SakunPushpitha) [![Linkedin Badge](https://img.shields.io/badge/-SakunRathnayaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakun-rathnayaka-678140126/)](https://www.linkedin.com/in/sakun-rathnayaka-678140126/) [![Medium Badge](https://img.shields.io/badge/-@sakunrathnayaka-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakunrathnayaka)](https://medium.com/@sakunrathnayaka)
+[![Email Badge](https://img.shields.io/badge/-sakunrathnayaka@yahoo.com-c14438?style=flat-square&logo=mail&logoColor=white&link=mailto:sakunrathnayaka@yahoo.com)](mailto:sakunrathnayaka@yahoo.com)
