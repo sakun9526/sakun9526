@@ -35,4 +35,32 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakun9526&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sakun's GitHub Stats" />
 </a>
 
+<br>
 
+<!-- Tools and technologies section -->
+
+## &#x1F527; Tools and Technologies
+
+<p align="left">
+	<img src="assets/tools and technologies/react.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/react router.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/redux.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/express.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/nodejs.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/mongodb.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/npm.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/vue.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/javascript.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/html.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/css.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/php.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/laravel.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/codeigniter.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/json.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/github.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/git.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/mysql.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/python.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/stackoverflow.png" height="40px" width="40px">
+	<img src="assets/tools and technologies/vscode.png" height="40px" width="40px">
+</p>
