@@ -1,60 +1,45 @@
-## Hi there folks <img src="./assets/wave.gif" width="30px">
+# Hi 👋, I'm Sakun Rathnayaka
 
+### Full Stack Software Engineer with 3+ years of experience
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakun9526&label=Profile views&color=0e75b6&style=flat" alt="sakun9526" /> </p>
 
-<!--
-	👋
-**sakun9526/sakun9526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/SakunPushpitha" target="blank"><img src="https://img.shields.io/twitter/follow/SakunPushpitha?logo=twitter&style=for-the-badge" alt="SakunPushpitha" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **Aspect Based Sentiment Analysis with Explainable AI for Hotel Reviews**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Agentic AI systems**
 
-<!-- ICON WITH LINKS  -->
+- 👯 I'm looking to collaborate on **Open Source Projects**
 
-[![Twitter Badge](https://img.shields.io/badge/-@SakunPushpitha-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SakunPushpitha)](https://twitter.com/SakunPushpitha) [![Linkedin Badge](https://img.shields.io/badge/-SakunRathnayaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakun-rathnayaka-678140126/)](https://www.linkedin.com/in/sakun-rathnayaka-678140126/) [![Medium Badge](https://img.shields.io/badge/-@sakunrathnayaka-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakunrathnayaka)](https://medium.com/@sakunrathnayaka)
-[![Email Badge](https://img.shields.io/badge/-sakunrathnayaka@yahoo.com-c14438?style=flat-square&logo=mail&logoColor=white&link=mailto:sakunrathnayaka@yahoo.com)](mailto:sakunrathnayaka@yahoo.com)
+- 🤝 I'm looking for help with **Learning Full Stack Web Development**
 
+- 💬 Ask me about **• React.js • Next.js • TypeScript • JavaScript (ES6+) • GraphQL • Redux • Frontend Architecture • Micro Frontends • Agile Development • Cloud Applications • CI/CD**
 
-<!-- GIHUB STATUS SECTION -->
+- 📫 How to reach me **sakunrathnayaka@yahoo.com**
 
-## &#x1f4c8; GitHub Stats
+- 👨‍💻 All of my projects are available at **[https://sakun9526.github.io/](https://sakun9526.github.io/)**
 
-<a href="https://github.com/sakun9526/sakun9526">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakun9526&size_weight=0.5&count_weight=0.5&count_private=true&hide=html,css&layout=donut-vertical&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-</a>
-<a href="https://github.com/sakun9526/sakun9526">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakun9526&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sakun's GitHub Stats" />
-</a>
+- 📝 I regularly write articles on **[https://sakunrathnayaka.medium.com/](https://sakunrathnayaka.medium.com/)**
 
-<br>
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1KJYHo_d6gogqaPCkt4NUkZBnqLqaGACG/view?usp=sharing](https://drive.google.com/file/d/1KJYHo_d6gogqaPCkt4NUkZBnqLqaGACG/view?usp=sharing)**
 
-<!-- Tools and technologies section -->
-
-## &#x1F527; Tools and Technologies
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-	<img src="assets/tools and technologies/react.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/nextjs.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/react router.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/redux.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/express.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/nodejs.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/mongodb.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/javascript.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/html.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/css.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/php.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/laravel.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/codeigniter.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/git.png" height="40px" width="40px">
-	<img src="assets/tools and technologies/mysql.png" height="40px" width="40px">
+<a href="https://github.com/sakun9526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakun9526" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakunrathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakunrathnayaka" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10758446/sakun9526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10758446/sakun9526" height="30" width="40" /></a>
+<a href="https://kaggle.com/sakunpushpitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sakunpushpitha" height="30" width="40" /></a>
+<a href="https://twitter.com/SakunPushpitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SakunPushpitha" height="30" width="40" /></a>
+<a href="https://medium.com/@sakunrathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakunrathnayaka" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakun9526&show_icons=true&locale=en&layout=compact" alt="sakun9526" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakun9526&show_icons=true&locale=en" alt="sakun9526" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakun9526&" alt="sakun9526" /></p>
+
